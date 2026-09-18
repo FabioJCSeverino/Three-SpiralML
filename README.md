@@ -33,8 +33,10 @@ Epochs: 5000
 
 The model achieved approximately **95% classification accuracy**.
 
+[TRAINING LOSS GRAPH]
 https://github.com/FabioJCSeverino/Three-SpiralML/blob/b362539df40a839098be37c7cc44dd9bc24765da/TrainingLoss.png
 
+[DECISION BOUNDARY GIF]
 https://github.com/FabioJCSeverino/Three-SpiralML/blob/b362539df40a839098be37c7cc44dd9bc24765da/neural_network_learning.gif
 
 ## Technologies
