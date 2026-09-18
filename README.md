@@ -11,7 +11,7 @@ used for visualization and training analysis.
 The Three-Spiral dataset consists of three interleaved classes
 forming a nonlinear decision boundary.
 
-[IMAGE / GIF]
+[DATA IMAGE]
 https://github.com/FabioJCSeverino/Three-SpiralML/blob/013599d57bfb64baccb3db3b390e105f23b14755/threespiral.png
 
 ## Neural Network
