@@ -12,6 +12,7 @@ The Three-Spiral dataset consists of three interleaved classes
 forming a nonlinear decision boundary.
 
 [IMAGE / GIF]
+https://github.com/FabioJCSeverino/Three-SpiralML/blob/013599d57bfb64baccb3db3b390e105f23b14755/threespiral.png
 
 ## Neural Network
 
@@ -25,7 +26,6 @@ Output: 3
 
 Activation functions: ReLU
 Loss function: Cross-Entropy
-Optimizer: [ADD]
 Learning rate: 0.05
 Epochs: 5000
 
