@@ -33,7 +33,6 @@ Epochs: 5000
 
 The model achieved approximately **95% classification accuracy**.
 
-[TRAINING LOSS GRAPH]
 ![Training Loss](TrainingLoss.png)
 
 ## Learning Process
